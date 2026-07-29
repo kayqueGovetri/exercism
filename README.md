@@ -2,8 +2,8 @@
 
 [![Exercism](https://img.shields.io/badge/Exercism-Practice-5A67D8?logo=exercism\&logoColor=white)](https://exercism.org/)
 [![Rust](https://img.shields.io/badge/Rust-🦀-black?logo=rust)](https://www.rust-lang.org/)
-[![Python](https://img.shields.io/badge/Python-🐍-3776AB?logo=python\&logoColor=white)
-](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-🐍-3776AB?logo=python\&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)](https://go.dev/)
 
 This repository contains my solutions to exercises from the **Exercism** platform.
 
@@ -15,13 +15,15 @@ The goal of this repository is to document my learning journey, improve problem-
 | --------- | -------------- |
 | 🦀 Rust   | 🚧 In Progress |
 | 🐍 Python | 🚧 In Progress |
+| 🐹 Go     | 🚧 In Progress |
 
 ## 🎯 Goals
 
 * Learn each language through idiomatic code.
 * Improve problem-solving and analytical thinking.
 * Practice writing clean, maintainable, and well-tested code.
-* Strengthen my knowledge of algorithms and data structures.
+* Strengthen my understanding of algorithms and data structures.
+* Explore different language paradigms and best practices.
 * Track my progress over time.
 
 ## 📂 Repository Structure
@@ -39,6 +41,11 @@ The goal of this repository is to document my learning journey, improve problem-
 │   ├── blackjack/
 │   └── ...
 │
+├── go/
+│   ├── hello-world/
+│   ├── weather-forecast/
+│   └── ...
+│
 └── README.md
 ```
 
@@ -47,13 +54,17 @@ The goal of this repository is to document my learning journey, improve problem-
 | Track     | Exercises |
 | --------- | --------: |
 | 🦀 Rust   |         6 |
-| 🐍 Python |         12 |
-| **Total** |     **20** |
+| 🐍 Python |        12 |
+| 🐹 Go     |         1 |
+| **Total** |    **18** |
+
+> Progress is updated as new exercises are completed.
 
 ## 🛠️ Technologies
 
 * Rust
 * Python
+* Go
 * Exercism CLI
 * Git
 * GitHub
