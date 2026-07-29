@@ -1,6 +1,7 @@
 # 🧩 Exercism Solutions
 
 [![Exercism](https://img.shields.io/badge/Exercism-Practice-5A67D8?logo=exercism\&logoColor=white)](https://exercism.org/)
+[![My Exercism Profile](https://img.shields.io/badge/Exercism-kayqueGovetri-5A67D8?logo=exercism&logoColor=white)](https://exercism.org/profiles/kayqueGovetri)
 [![Rust](https://img.shields.io/badge/Rust-🦀-black?logo=rust)](https://www.rust-lang.org/)
 [![Python](https://img.shields.io/badge/Python-🐍-3776AB?logo=python\&logoColor=white)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go\&logoColor=white)](https://go.dev/)
@@ -31,21 +32,8 @@ The goal of this repository is to document my learning journey, improve problem-
 ```text
 .
 ├── rust/
-│   ├── hello-world/
-│   ├── leap/
-│   ├── matching-brackets/
-│   └── ...
-│
 ├── python/
-│   ├── hello-world/
-│   ├── blackjack/
-│   └── ...
-│
 ├── go/
-│   ├── hello-world/
-│   ├── weather-forecast/
-│   └── ...
-│
 └── README.md
 ```
 
@@ -55,7 +43,7 @@ The goal of this repository is to document my learning journey, improve problem-
 | --------- | --------: |
 | 🦀 Rust   |         6 |
 | 🐍 Python |        12 |
-| 🐹 Go     |         1 |
+| 🐹 Go     |         0 |
 | **Total** |    **18** |
 
 > Progress is updated as new exercises are completed.
@@ -73,7 +61,7 @@ The goal of this repository is to document my learning journey, improve problem-
 
 Exercism is an open-source learning platform that provides programming exercises, mentoring, and code reviews across dozens of programming languages.
 
-Learn more at https://exercism.org/
+Learn more at **https://exercism.org/**
 
 ## 📄 License
 
