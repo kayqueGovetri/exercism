@@ -1,0 +1,44 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# =========================
+# Rust
+# =========================
+**/target/
+
+# Cargo.lock:
+# Ignore apenas se você estiver usando o repositório como biblioteca.
+# Para exercícios, eu prefiro versionar.
+# Cargo.lock
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Exercism
+# =========================
+.exercism/
