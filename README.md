@@ -39,12 +39,13 @@ The goal of this repository is to document my learning journey, improve problem-
 
 ## 📈 Progress
 
-| Track     | Exercises |
-| --------- | --------: |
-| 🦀 Rust   |         6 |
-| 🐍 Python |        12 |
-| 🐹 Go     |         0 |
-| **Total** |    **18** |
+<!-- EXERCISM_STATS_START -->
+| Language | Exercises |
+|----------|----------:|
+| Go | 2 |
+| Python | 12 |
+| Rust | 6 |
+<!-- EXERCISM_STATS_END -->
 
 > Progress is updated as new exercises are completed.
 
