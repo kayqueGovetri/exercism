@@ -45,7 +45,6 @@ The goal of this repository is to document my learning journey, improve problem-
 | Go | 2 |
 | Python | 13 |
 | Rust | 6 |
-| Venv | 3 |
 <!-- EXERCISM_STATS_END -->
 
 > Progress is updated as new exercises are completed.

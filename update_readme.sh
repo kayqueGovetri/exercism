@@ -13,7 +13,7 @@ TMP=$(mktemp)
 
         # Ignora pastas que não são linguagens
         case "$dir" in
-            .git|.github) continue ;;
+            .git|.github|venv) continue ;;
         esac
 
         count=$(find "$dir" -mindepth 1 -maxdepth 1 -type d | wc -l)
