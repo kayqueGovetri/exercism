@@ -24,3 +24,8 @@ git commit -m "$MESSAGE"
 
 echo "✔ Commit criado:"
 echo "  $MESSAGE"
+
+(
+    cd "${LANGUAGE}/${EXERCISE}"
+    exercism submit
+)
