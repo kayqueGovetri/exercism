@@ -42,7 +42,7 @@ The goal of this repository is to document my learning journey, improve problem-
 <!-- EXERCISM_STATS_START -->
 | Language | Exercises |
 |----------|----------:|
-| Go | 8 |
+| Go | 9 |
 | Python | 13 |
 | Rust | 6 |
 <!-- EXERCISM_STATS_END -->
