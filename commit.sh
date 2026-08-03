@@ -29,3 +29,5 @@ echo "  $MESSAGE"
     cd "${LANGUAGE}/${EXERCISE}"
     exercism submit
 )
+
+git push origin main
