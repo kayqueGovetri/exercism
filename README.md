@@ -47,7 +47,7 @@ The goal of this repository is to document my learning journey, improve problem-
 | Rust | 6 |
 <!-- EXERCISM_STATS_END -->
 
-> Progress is updated as new exercises are completed.
+> Progress is updated as new exercises are completed
 
 ## 🛠️ Technologies
 
